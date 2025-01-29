@@ -1,4 +1,4 @@
-# Peek Finder
+# ZigZag
 ## Problem
 A given triple (a, b, c) is called a zigzag if either a < b > c or a > b < c.
 Implement a method which checks all numbers in an array of integer to mark them as zigzag (1) or non-zigzag (0). Because
